@@ -11,6 +11,7 @@ numpy = "*"
 argilla = "*"
 orjson = "*"
 msgspec = "*"
+gpt4-openai-api = "*"
 
 [dev-packages]
 ipykernel = "*"
