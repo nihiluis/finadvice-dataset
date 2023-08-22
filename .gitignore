@@ -2,3 +2,4 @@ rawdata/**/*
 *.csv
 .env
 .DS_Store
+*.pickle
