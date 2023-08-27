@@ -1,2 +1,0 @@
-# Goal
-Identify texts that 
