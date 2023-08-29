@@ -13,7 +13,7 @@ This repo adapts code from the following resources:
 
 [Llama1 7B fine-tuning with QLoRA + Adapter merge + EOS token to avoid repetitions](https://georgesung.github.io/ai/qlora-ift/)
 [Falcon 7B fine-tuning with QLoRa... + Bitsandbytes on a 137 sample dataset](https://medium.com/@iamarunbrahma/fine-tuning-of-falcon-7b-large-language-model-using-qlora-on-mental-health-dataset-aa290eb6ec85)
-[Merging QLoRA adapter weights gist][https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930]
+[Merging QLoRA adapter weights gist](https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930)
 
 ## Example prompt and completion
 This example (recent reddit submission taken from /r/personalfinance) is not cherry-picked and may give you an impression what can be expected from a 7B Llama2 model.
